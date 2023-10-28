@@ -1,0 +1,2 @@
+# my-SQL-project
+FACE DETECTION PROJECT
