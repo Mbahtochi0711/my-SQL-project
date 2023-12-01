@@ -1,2 +1,2 @@
-MY HAPENI# my-SQL-project
+# my-SQL-project
 FACE DETECTION PROJECT
